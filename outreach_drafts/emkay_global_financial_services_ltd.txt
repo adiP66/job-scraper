@@ -1,0 +1,28 @@
+TO: emkayassist@emkayglobal.com
+SUBJECT: FastAPI & Python Backend Engineer — Application for Junior Developer — Aditya Parkhe
+MAILTO LINK: mailto:emkayassist@emkayglobal.com?subject=FastAPI%20%26%20Python%20Backend%20Engineer%20%E2%80%94%20Application%20for%20Junior%20Developer%20%E2%80%94%20Aditya%20Parkhe&body=Hi%20Team%2C%0A%0AI%20hope%20you%27re%20having%20a%20productive%20week.%0A%0AI%20noticed%20Emkay%20Global%20Financial%20Services%20Ltd%27s%20opening%20for%20the%20Junior%20Developer%20role%20and%20wanted%20to%20reach%20out%20directly%20to%20express%20my%20strong%20interest%20in%20joining%20your%20engineering%20team.%0A%0AI%20specialize%20in%20scalable%20backend%20architectures%20and%20data%20pipelines.%20I%20built%20and%20maintain%20Pred%20MMA%20%28https%3A%2F%2Fpredmma.in%29%20in%20live%20production%20using%20FastAPI%2C%20PostgreSQL%2C%20and%20AWS%20%28Lambda%2FS3%29%2C%20achieving%20high-throughput%20low-latency%20REST%20endpoints.%20I%20also%20design%20automated%20ETL%20workflows%20and%20microservices.%0A%0AWhat%20excites%20me%20about%20Emkay%20Global%20Financial%20Services%20Ltd%20is%20the%20opportunity%20to%20contribute%20clean%2C%20production-ready%20code%20from%20day%20one.%20I%27m%20completing%20my%20MSc.%20in%20Artificial%20Intelligence%20%28BSc.%20Computer%20Science%2C%202024%29%2C%20and%20I%20prioritize%20shipping%20practical%2C%20reliable%20software%20over%20hypothetical%20prototypes.%0A%0AA%20quick%20look%20at%20my%20work%3A%0A%E2%80%A2%20Live%20Production%20System%3A%20https%3A%2F%2Fpredmma.in%0A%E2%80%A2%20GitHub%20%26%20Open%20Source%3A%20https%3A%2F%2Fgithub.com%2FadiP66%0A%E2%80%A2%20LinkedIn%3A%20https%3A%2F%2Flinkedin.com%2Fin%2Fadityaparkhe%0A%0AI%20would%20welcome%2010%E2%80%9315%20minutes%20to%20discuss%20how%20my%20skill%20set%20in%20Python%2C%20FastAPI%2C%20and%20applied%20AI%20can%20support%20Emkay%20Global%20Financial%20Services%20Ltd%27s%20current%20initiatives.%20I%27ve%20attached%20my%20resume%20for%20your%20review.%0A%0AThank%20you%20for%20your%20time%20and%20consideration%2C%0A%0AAditya%20Parkhe%0AMSc.%20Artificial%20Intelligence%20%7C%20BSc.%20Computer%20Science%0APortfolio%3A%20predmma.in%20%7C%20GitHub%3A%20github.com%2FadiP66%20%7C%20Phone%3A%20%2B91%2099875%2068753%0AMumbai%2C%20Maharashtra%2C%20India%0A
+------------------------------------------------------------
+
+Hi Team,
+
+I hope you're having a productive week.
+
+I noticed Emkay Global Financial Services Ltd's opening for the Junior Developer role and wanted to reach out directly to express my strong interest in joining your engineering team.
+
+I specialize in scalable backend architectures and data pipelines. I built and maintain Pred MMA (https://predmma.in) in live production using FastAPI, PostgreSQL, and AWS (Lambda/S3), achieving high-throughput low-latency REST endpoints. I also design automated ETL workflows and microservices.
+
+What excites me about Emkay Global Financial Services Ltd is the opportunity to contribute clean, production-ready code from day one. I'm completing my MSc. in Artificial Intelligence (BSc. Computer Science, 2024), and I prioritize shipping practical, reliable software over hypothetical prototypes.
+
+A quick look at my work:
+• Live Production System: https://predmma.in
+• GitHub & Open Source: https://github.com/adiP66
+• LinkedIn: https://linkedin.com/in/adityaparkhe
+
+I would welcome 10–15 minutes to discuss how my skill set in Python, FastAPI, and applied AI can support Emkay Global Financial Services Ltd's current initiatives. I've attached my resume for your review.
+
+Thank you for your time and consideration,
+
+Aditya Parkhe
+MSc. Artificial Intelligence | BSc. Computer Science
+Portfolio: predmma.in | GitHub: github.com/adiP66 | Phone: +91 99875 68753
+Mumbai, Maharashtra, India

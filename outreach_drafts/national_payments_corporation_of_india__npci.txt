@@ -1,0 +1,28 @@
+TO: careers@npci.org.in
+SUBJECT: MSc. AI Engineer & Live RAG Builder — Application for Software Engineer / AI Engineer — Aditya Parkhe
+MAILTO LINK: mailto:careers@npci.org.in?subject=MSc.%20AI%20Engineer%20%26%20Live%20RAG%20Builder%20%E2%80%94%20Application%20for%20Software%20Engineer%20%2F%20AI%20Engineer%20%E2%80%94%20Aditya%20Parkhe&body=Hi%20Team%2C%0A%0AI%20hope%20you%27re%20having%20a%20productive%20week.%0A%0AI%20noticed%20National%20Payments%20Corporation%20of%20India%20%28NPCI%29%27s%20opening%20for%20the%20Software%20Engineer%20%2F%20AI%20Engineer%20role%20and%20wanted%20to%20reach%20out%20directly%20to%20express%20my%20strong%20interest%20in%20joining%20your%20engineering%20team.%0A%0AOver%20the%20past%20year%2C%20I%27ve%20focused%20on%20building%20production-grade%20AI%20and%20agentic%20systems.%20I%20recently%20deployed%20Pred%20MMA%20%28https%3A%2F%2Fpredmma.in%29%2C%20an%20end-to-end%20FastAPI%20and%20machine%20learning%20platform%2C%20and%20built%20multi-step%20RAG%20workflows%20with%20LangChain%2C%20LangGraph%2C%20and%20ChromaDB%20vector%20search.%20My%20master%27s%20thesis%20research%20directly%20centers%20on%20Deep%20Learning%20and%20LLM%20orchestration.%0A%0AWhat%20excites%20me%20about%20National%20Payments%20Corporation%20of%20India%20%28NPCI%29%20is%20the%20opportunity%20to%20contribute%20clean%2C%20production-ready%20code%20from%20day%20one.%20I%27m%20completing%20my%20MSc.%20in%20Artificial%20Intelligence%20%28BSc.%20Computer%20Science%2C%202024%29%2C%20and%20I%20prioritize%20shipping%20practical%2C%20reliable%20software%20over%20hypothetical%20prototypes.%0A%0AA%20quick%20look%20at%20my%20work%3A%0A%E2%80%A2%20Live%20Production%20System%3A%20https%3A%2F%2Fpredmma.in%0A%E2%80%A2%20GitHub%20%26%20Open%20Source%3A%20https%3A%2F%2Fgithub.com%2FadiP66%0A%E2%80%A2%20LinkedIn%3A%20https%3A%2F%2Flinkedin.com%2Fin%2Fadityaparkhe%0A%0AI%20would%20welcome%2010%E2%80%9315%20minutes%20to%20discuss%20how%20my%20skill%20set%20in%20Python%2C%20FastAPI%2C%20and%20applied%20AI%20can%20support%20National%20Payments%20Corporation%20of%20India%20%28NPCI%29%27s%20current%20initiatives.%20I%27ve%20attached%20my%20resume%20for%20your%20review.%0A%0AThank%20you%20for%20your%20time%20and%20consideration%2C%0A%0AAditya%20Parkhe%0AMSc.%20Artificial%20Intelligence%20%7C%20BSc.%20Computer%20Science%0APortfolio%3A%20predmma.in%20%7C%20GitHub%3A%20github.com%2FadiP66%20%7C%20Phone%3A%20%2B91%2099875%2068753%0AMumbai%2C%20Maharashtra%2C%20India%0A
+------------------------------------------------------------
+
+Hi Team,
+
+I hope you're having a productive week.
+
+I noticed National Payments Corporation of India (NPCI)'s opening for the Software Engineer / AI Engineer role and wanted to reach out directly to express my strong interest in joining your engineering team.
+
+Over the past year, I've focused on building production-grade AI and agentic systems. I recently deployed Pred MMA (https://predmma.in), an end-to-end FastAPI and machine learning platform, and built multi-step RAG workflows with LangChain, LangGraph, and ChromaDB vector search. My master's thesis research directly centers on Deep Learning and LLM orchestration.
+
+What excites me about National Payments Corporation of India (NPCI) is the opportunity to contribute clean, production-ready code from day one. I'm completing my MSc. in Artificial Intelligence (BSc. Computer Science, 2024), and I prioritize shipping practical, reliable software over hypothetical prototypes.
+
+A quick look at my work:
+• Live Production System: https://predmma.in
+• GitHub & Open Source: https://github.com/adiP66
+• LinkedIn: https://linkedin.com/in/adityaparkhe
+
+I would welcome 10–15 minutes to discuss how my skill set in Python, FastAPI, and applied AI can support National Payments Corporation of India (NPCI)'s current initiatives. I've attached my resume for your review.
+
+Thank you for your time and consideration,
+
+Aditya Parkhe
+MSc. Artificial Intelligence | BSc. Computer Science
+Portfolio: predmma.in | GitHub: github.com/adiP66 | Phone: +91 99875 68753
+Mumbai, Maharashtra, India

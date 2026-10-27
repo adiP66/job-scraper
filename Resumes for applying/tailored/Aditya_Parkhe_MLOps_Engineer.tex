@@ -1,0 +1,78 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\titlerule]
+
+\setlist[itemize]{leftmargin=1.5em, itemsep=2pt, parsep=0pt, topsep=2pt}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Aditya Parkhe}} \\[3pt]
+    \small Maharashtra, India \; $\cdot$ \; +91 9987568753 \; $\cdot$ \; \href{mailto:adityaparkhe442@gmail.com}{adityaparkhe442@gmail.com} \\[2pt]
+    \href{https://linkedin.com/in/adityaparkhe}{LinkedIn: linkedin.com/in/adityaparkhe} \; $\cdot$ \; \href{https://github.com/adiP66}{GitHub: github.com/adiP66} \; $\cdot$ \; \href{https://predmma.in}{Portfolio: predmma.in}
+\end{center}
+
+\section*{Technical Skills}
+\textbf{Machine Learning \& MLOps:} PyTorch, Scikit-learn, AutoGluon, MLflow, Docker, Azure ML, DVC, Feature Stores, Model Monitoring \\
+\textbf{Backend \& Cloud:} Python, FastAPI, PostgreSQL, AWS (S3, Lambda, Redshift), Redis, Linux, Git, CI/CD, Asynchronous Pipelines \\
+\textbf{Data Processing:} Pandas, NumPy, Distributed Feature Engineering, Spatial \& Tabular Data Transformation
+
+\section*{Professional Experience}
+\textbf{AI Engineer} \hfill \textbf{Jan 2025 -- Mar 2025} \\
+\textit{Eipi Media} \hfill \textit{Mumbai, India}
+\begin{itemize}
+    \item Managed end-to-end ML lifecycle scripts from data extraction to production inference serving, improving throughput by 30\%.
+    \item Engineered automated monitoring checks for inference latency and output data quality, decreasing failure rates by 40\%.
+    \item Integrated modular API pipelines to serve on-demand model predictions with sub-100ms response targets.
+\end{itemize}
+
+\section*{Key Projects}
+\textbf{End-to-End MLOps Pipeline \& Real-Time Serving Platform} \hfill \href{https://github.com/adiP66}{github.com/adiP66/mlops-pipeline}
+\begin{itemize}
+    \item Built production MLOps pipeline featuring automated model training, MLflow experiment tracking, and artifact versioning.
+    \item Containerized deployment with Docker and deployed FastAPI microservice for low-latency batch and online model inference.
+    \item Implemented automated data drift alerts and statistical schema validation checks to safeguard production prediction stability.
+\end{itemize}
+
+\textbf{Distributed Predictive ML Research Engine} \hfill \href{https://github.com/adiP66/ufc-research}{github.com/adiP66/ufc-research}
+\begin{itemize}
+    \item Engineered 100+ rolling temporal and spatial athletic features (EWMA, z-scores, strike trajectories) across 5,000+ matchups.
+    \item Managed distributed training jobs on Azure ML Studio compute clusters, debugging data leakage and multiprocessing bottlenecks.
+    \item Achieved 64\%+ predictive accuracy on out-of-sample data, deploying ensemble inference pipelines for live event analytics.
+\end{itemize}
+
+\textbf{Cloud Data Warehouse \& Analytics Architecture} \hfill \href{https://github.com/adiP66/awsETLproject}{github.com/adiP66/awsETLproject}
+\begin{itemize}
+    \item Constructed AWS data lake and ETL pipeline processing 10k+ daily records with automated error-handling on Lambda.
+    \item Optimized Redshift warehouse schemas and SQL queries, delivering 30\% faster analytical queries for executive dashboards.
+\end{itemize}
+
+\section*{Education}
+\textbf{MSc. in Artificial Intelligence} \hfill \textbf{2024 -- 2026} \\
+\textit{B.K. Birla College of Arts, Science \& Commerce (University of Mumbai)} \hfill \textit{Kalyan, India} \\[3pt]
+\textbf{BSc. in Computer Science} \hfill \textbf{2021 -- 2024} \\
+\textit{Chandibai Himathmal Mansukhani College (University of Mumbai)} \hfill \textit{Ulhasnagar, India}
+
+\section*{Achievements}
+\begin{itemize}
+    \item Top 10\% Most Active Contributor on LeetCode; solved 150+ algorithms and SQL problems.
+    \item Authored comprehensive empirical research paper addressing model interpretability in predictive ML systems.
+\end{itemize}
+
+\end{document}
